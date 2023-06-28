@@ -1,10 +1,10 @@
 # Model_label_predict.io"# multilabel-job-description-classification" 
 
 hướng dẫn:
-pip install virtualenv
-virtualenv env
+pip install virtualenv <br>
+virtualenv env <br>
+env\Scripts\activate <br>
+pip install -r requirements.txt <br>
 
-env\Scripts\activate
-pip install -r requirements.txt
-
-pip freeze > requirements.txt
+tạo file requirements <br>
+`pip freeze > requirements.txt`
