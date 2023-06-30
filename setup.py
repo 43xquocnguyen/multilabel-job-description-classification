@@ -2,22 +2,22 @@ import pandas as pd
 import numpy as np
 
 import re
-from unidecode import unidecode
 from itertools import chain
 
 from vncorenlp import VnCoreNLP
 
 # Paths
-DATA_PATH = '/data/raw_data_2.csv'
-VI_DATA_PATH = '/data/vn.csv'
-FULL_PATH = '/data/full.csv'
-TRAIN_PATH = '/data/train.csv'
-VAL_PATH = '/data/val.csv'
-TEST_PATH = '/data/test.csv'
+DATA_PATH = './data/raw_data_2.csv'
+VI_DATA_PATH = './data/vn.csv'
 
-ALL_LABELS_PATH = '/data/labels.csv'
+FULL_PATH = './data/full.csv'
+TRAIN_PATH = './data/train.csv'
+VAL_PATH = './data/val.csv'
+TEST_PATH = './data/test.csv'
 
-STOPWORDS_PATH = '/data/vietnamese-stopwords.txt'
+ALL_LABELS_PATH = './data/labels.csv'
+
+STOPWORDS_PATH = './data/vietnamese-stopwords.txt'
 
 # Stopwords
 with open(STOPWORDS_PATH, 'r', encoding='utf-8') as file:
@@ -30,3 +30,9 @@ NUM_LABELS = len(ALL_LABELS)
 
 # VNCoreNLP
 vncorenlp = VnCoreNLP("vncorenlp/VnCoreNLP-1.1.1.jar", annotators="wseg", max_heap_size='-Xmx500m')
+
+# TF-IDF
+TFIDF_PATH = 'models/tfidf_word_5000.pkl'
+
+# Tokenizer
+MAX_SEQUENCE_LENGTH = 200
