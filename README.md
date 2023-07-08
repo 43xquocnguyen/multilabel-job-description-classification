@@ -7,7 +7,8 @@ The task of classifying job descriptions into industries is a text classificatio
 - __Output__: One or more industries that are most relevant.
 
 Here is my demo app using `streamlit`:
-![name](source)
+![demo](imgs/demo.gif)
+
 
 ## Dataset
 
@@ -66,6 +67,7 @@ Because the file size is too large, I can not upload data, and trained models. I
 - Step 1: `pip install virtualenv`
 - Step 2: `virtualenv env`
 - Step 3: `env\Scripts\activate`
+- Step 3: `pip install -r requirements.txt`
 - Step 4: `streamlit run main.py`
 
 ## References

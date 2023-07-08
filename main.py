@@ -4,8 +4,7 @@ import preprocessing as P
 import predicting as pdt
 
 import streamlit as st
-st.set_page_config(layout="wide")
-st.set_page_config(page_title='DỰ ĐOÁN NGÀNH NGHỀ TỪ MÔ TẢ CÔNG VIỆC', page_icon=':chart_with_upwards_trend:')
+st.set_page_config(layout="wide", page_title="DỰ ĐOÁN NGÀNH NGHỀ TỪ MÔ TẢ CÔNG VIỆC")
 
 # Title
 st.markdown("<h1 style='text-align: center;'>DỰ ĐOÁN NGÀNH NGHỀ TỪ MÔ TẢ CÔNG VIỆC</h1>", unsafe_allow_html=True)

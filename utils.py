@@ -32,14 +32,12 @@ def load_model_DL(c, pretrained, fe):
         c = 'NeuralNet'
     elif c == 'TextCNN':
         model = MultilabelClassifier_TextCNN(model_name=pretrained)
-    elif c == 'BiLSTM':
+    elif c == 'Bi-LSTM':
         model = MultilabelClassifier_BiLSTM(model_name=pretrained)
+        c = 'BiLSTM'
     else:
         model = MultilabelClassifier_BiGRU(model_name=pretrained)
-
-    
-    print(c)
-    print('models/' + fe + '_' + c + '_9.pth')
+        c = 'BiGRU'
 
     # load weights
     model.load_state_dict(torch.load('models/' + fe + '_' + c + '_9.pth', map_location=torch.device('cpu')))
