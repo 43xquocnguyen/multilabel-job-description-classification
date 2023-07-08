@@ -21,45 +21,15 @@ Here is my example data:
 
 | job_description     | job_requirements | industries |
 |---------------|------|------------------------------|
-| Báo cáo cho: CEO<br>
-1. Hỗ trợ tổng giám đốc xây dựng chiến lược kinh doanh tổng thể và tổ chức thực hiện, đồng thời thực hiện các mục tiêu và kế hoạch kinh doanh cụ thể.<br>
-2. Tiến hành theo dõi phát triển thị trường và điều chỉnh chiến lược theo từng giai đoạn.<br>
-3. Tổ chức thu thập thông tin thị trường, phân tích, nghiên cứu chuyên sâu và đề xuất định hướng, cải tiến hoạt động của thị trường.<br>
-4. Phát triển khách hàng, giới thiệu sản phẩm của công ty với khách hàng, giải thích chính sách công ty cho khách hàng.<br>
-5. Theo dõi và thiết lập mối quan hệ tốt với khách hàng để tạo thuận lợi cho giao dịch và hoàn thành các chỉ tiêu kinh doanh.<br>
-6. Chịu trách nhiệm lựa chọn, đào tạo, triển khai và kiểm tra, đánh giá hiệu suất của nhân viên kinh doanh.<br>
-7. Phối hợp tốt với các phòng ban khác hoàn thành các công việc khác do cấp trên giao phó.
- | 1. Trình độ học vấn<br>
- - Tốt nghiệp cao đẳng trở lên các chuyên ngành liên quan<br>
- 2. Kinh nghiệm làm việc<br>
- - Có kinh nghiệm tối thiểu 05 năm trở lên ở vị trí tương đương, ưu tiên từng làm việc cho doanh nghiệp liên quan lĩnh vực bán lẻ, công nghệ.<br>
- 3. Kiến thức/ Năng lực chuyên môn/ Kỹ năng<br>
- - Sử dụng tốt các phần mềm văn phòng<br>
- - Kỹ năng đàm phán, giao dịch với khách hàng, đối tác. - Giao tiếp được tiếng Anh hoặc tiếng Trung<br>
- 4. Năng lực cốt lõi<br>
- - Có tố chất, tư duy và khả năng xử lý công việc; dẫn dắt đội nhóm<br>
- - Chịu được áp lực công việc cường độ cao
- | Kinh doanh, Quản lý điều hành |
- | - Làm việc tại văn phòng không đi thị trường<br>
- - Khai thác nguồn khách hàng có sẵn của công ty.<br>
- - Tư vấn làm hồ sơ vay tín chấp cho khách hàng.<br>
- - Tiếp nhận, hoàn thành hồ sơ vay, hướng dẫn thủ tục giải ngân cho khách hàng.<br>
- - Báo cáo kết quả công việc hàng tuần/ tháng<br>
- Thời gian làm việc: Giờ hành chính từ (8h30 - 17h30) Từ Thứ Hai đến Sáng Thứ Bảy (chiều Thứ Bảy, Chủ Nhật nghỉ)<br>
- Địa điểm làm việc: Toà nhà Pico Plaza, số 20 Cộng Hoà, Phường 12, Quận Tân Bình, TP Hồ Chí Minh. |  - Tuổi từ 18 đến 35 tuổi.<br>
- - Không yêu cầu kinh nghiệm, sẽ được đào tạo, nếu đã có kinh nghiệm sẽ là một lợi thế.<br>
- - Phù hợp với sinh viên mới ra trường muốn thử sức môi trường làm việc chuyên nghiệp.<br>
- - Ưu tiên UV có kinh nghiệm tài chính, ngân hàng, kinh doanh, bảo hiểm, BĐS, nhân viên bán hàng, NVKD<br>
- - Ưu tiên ứng viên muốn gắn bó và làm việc cùng team lâu dài<br>
- - Chỉ tuyển Fulltime- Không tuyển thực tập - CTV
- | IT Phần mềm, Hành chính - Thư ký, Tư vấn, Ngân hàng |
+| Báo cáo cho: CEO<br>1. Hỗ trợ tổng giám đốc xây dựng chiến lược kinh doanh tổng thể và tổ chức thực hiện, đồng thời thực hiện các mục tiêu và kế hoạch kinh doanh cụ thể.<br>2. Tiến hành theo dõi phát triển thị trường và điều chỉnh chiến lược theo từng giai đoạn.<br>3. Tổ chức thu thập thông tin thị trường, phân tích, nghiên cứu chuyên sâu và đề xuất định hướng, cải tiến hoạt động của thị trường.<br>4. Phát triển khách hàng, giới thiệu sản phẩm của công ty với khách hàng, giải thích chính sách công ty cho khách hàng.<br>5. Theo dõi và thiết lập mối quan hệ tốt với khách hàng để tạo thuận lợi cho giao dịch và hoàn thành các chỉ tiêu kinh doanh.<br>6. Chịu trách nhiệm lựa chọn, đào tạo, triển khai và kiểm tra, đánh giá hiệu suất của nhân viên kinh doanh.<br>7. Phối hợp tốt với các phòng ban khác hoàn thành các công việc khác do cấp trên giao phó. | 1. Trình độ học vấn<br> - Tốt nghiệp cao đẳng trở lên các chuyên ngành liên quan<br> 2. Kinh nghiệm làm việc<br> - Có kinh nghiệm tối thiểu 05 năm trở lên ở vị trí tương đương, ưu tiên từng làm việc cho doanh nghiệp liên quan lĩnh vực bán lẻ, công nghệ.<br> 3. Kiến thức/ Năng lực chuyên môn/ Kỹ năng<br> - Sử dụng tốt các phần mềm văn phòng<br> - Kỹ năng đàm phán, giao dịch với khách hàng, đối tác. - Giao tiếp được tiếng Anh hoặc tiếng Trung<br> 4. Năng lực cốt lõi<br> - Có tố chất, tư duy và khả năng xử lý công việc; dẫn dắt đội nhóm<br> - Chịu được áp lực công việc cường độ cao | Kinh doanh, Quản lý điều hành |
+| - Làm việc tại văn phòng không đi thị trường<br> - Khai thác nguồn khách hàng có sẵn của công ty.<br> - Tư vấn làm hồ sơ vay tín chấp cho khách hàng.<br> - Tiếp nhận, hoàn thành hồ sơ vay, hướng dẫn thủ tục giải ngân cho khách hàng.<br> - Báo cáo kết quả công việc hàng tuần/ tháng<br> Thời gian làm việc: Giờ hành chính từ (8h30 - 17h30) Từ Thứ Hai đến Sáng Thứ Bảy (chiều Thứ Bảy, Chủ Nhật nghỉ)<br> Địa điểm làm việc: Toà nhà Pico Plaza, số 20 Cộng Hoà, Phường 12, Quận Tân Bình, TP Hồ Chí Minh. |  - Tuổi từ 18 đến 35 tuổi.<br> - Không yêu cầu kinh nghiệm, sẽ được đào tạo, nếu đã có kinh nghiệm sẽ là một lợi thế.<br> - Phù hợp với sinh viên mới ra trường muốn thử sức môi trường làm việc chuyên nghiệp.<br> - Ưu tiên UV có kinh nghiệm tài chính, ngân hàng, kinh doanh, bảo hiểm, BĐS, nhân viên bán hàng, NVKD<br> - Ưu tiên ứng viên muốn gắn bó và làm việc cùng team lâu dài<br> - Chỉ tuyển Fulltime- Không tuyển thực tập - CTV | IT Phần mềm, Hành chính - Thư ký, Tư vấn, Ngân hàng |
 
 ### Data Pre-processing
-Step 1: Remove all samples that are in English.
-Step 2: Lowercase.
-Step 3: Tokenization using [VNCoreNLP](https://github.com/vncorenlp/VnCoreNLP)
-Step 4: Punctuation removal.
-Step 5: [Vietnamese stopwords](https://github.com/stopwords/vietnamese-stopwords) removal.
+- Step 1: Remove all samples that are in English.
+- Step 2: Lowercase.
+- Step 3: Tokenization using [VNCoreNLP](https://github.com/vncorenlp/VnCoreNLP)
+- Step 4: Punctuation removal.
+- Step 5: [Vietnamese stopwords](https://github.com/stopwords/vietnamese-stopwords) removal.
 
 ### Data Splitting
 - For training: 70%.
