@@ -3,8 +3,8 @@
 ## Task description
 
 The task of classifying job descriptions into industries is a text classification task. To predict industries we are using information in the job description such as knowledge, skills, interest, etc. However, that is the multi-label classification task because the job description will often have one or more corresponding industries that are most relevant. 
-- Input: Text containing the content of the job description.
-- Output: One or more industries that are most relevant.
+- __Input__: Text containing the content of the job description.
+- __Output__: One or more industries that are most relevant.
 
 Here is my demo app using `streamlit`:
 ![name](source)
@@ -15,6 +15,7 @@ Here is my demo app using `streamlit`:
 I collect data from two of the most popular online job search sites in Vietnam:
 - [Vietnamworks](https://www.vietnamworks.com/)
 - [TopCV](https://www.topcv.vn/)
+
 The data we have collected includes the job description, the job's requirements, and the industries directly related to the job. For more details please read [my report](reports/reports.pdf).
 
 Here is my example data:
