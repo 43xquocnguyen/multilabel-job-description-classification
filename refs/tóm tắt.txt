@@ -1,0 +1,46 @@
+1>
+Intro:
+	- Nhà tuyển dụng phải lọc các ứng viên 1 cách thủ công, dẫn đến việc làm mất thời gian
+	- Job prediction là 1 task sử dụng ML và NLP, để dự đoán job dựa trên job des bao gồm requirements, knowledge, skills, sở thích,...
+		+ Input: Một cái Job Description nhất định được thu thập từ các trang tìm việc làm
+		+ Output: Một tiêu đề công việc dự đoán
+	- Đóng góp:
+		+ Sử dụng dữ liệu từ nhiều job-site:
+			. vietnameseworks (9555)
+			. vieclam24h (10445)
+		+ So sánh nhiều kết quả của các mô hình deep learning khác nhau: TextCNN, Bi-GRU-LSTM-CNN, Bi-GRU-CNN với nhiều mô hình pretrained word embedding như: BERT, phoBERT => Chọn ra mô hình ensemble nào tốt nhất
+		+ Đề xuất future work dựa trên challenges
+		+ Cuối cùng, xây dựng application nhỏ demo
+
+Trực quan:
+	- Ví dụ 1 input và output
+	- Table các job titles
+	- Table so sánh num_of_jd của Train, Dev và Test
+	- Maximum len, minimum len, avg len từng tập
+	- Distribution: Box plot of len
+	- Number of labels từng tập
+	- Plot ra word count => Chọn ra maxlen
+
+Tiền xử lý:
+	- Lower case
+	- Xóa các ký tự đặc biệt: #, , & *, $,...
+	- Tokenization: VnNLPCore
+	- Xóa các stop word
+	- Embedding
+
+Embedding:
+	+ fastText
+	+ w2v
+	+ ELMO
+	+ phoBERT
+	
+Mô hình:
+	- TextCNN
+	- Bi-GRU-CNN (Mô hình của bài báo Salary Prediction using Bidirectional-GRU-CNN Model - 2019)
+	- Bi-GRU-LSTM-CNN (Mô hình giải quyết Hate-speech detection)
+	- Ensemble Model (using Majority Voting): Gộp các mô hình bên trên lại
+
+
+2> 
+Intro:
+	- Với số lượng thông tin quá nhiều của 1 cái Job Description thì việc phân loại các thông tin đó vào 1 nhóm cái Job Title cụ thể là cần thiết. Nó không chỉ giúp cho các người tìm việc tìm việc 1 cách nhanh chóng mà còn giúp khuyến nghị ra các công việc liên quan cho họ.

@@ -7,7 +7,9 @@ The task of classifying job descriptions into industries is a text classificatio
 - __Output__: One or more industries that are most relevant.
 
 Here is my demo app using `streamlit`:
-![demo](imgs/demo.gif)
+
+
+![demo](demo/demo.gif)
 
 
 ## Dataset
